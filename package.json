@@ -1,0 +1,16 @@
+{
+  "name": "hashtag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Gago Gagoyan",
+  "homepage": "https://knarikmargaryan.github.io/hashtag",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
