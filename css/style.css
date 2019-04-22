@@ -9,6 +9,9 @@ svg {
   border: 1px solid #ccc;
   background: transparent;
 }
+#box {
+    cursor: crosshair;
+}
 path {
   fill: transparent;
   stroke: black;
